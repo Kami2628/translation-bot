@@ -67,4 +67,4 @@ This bot supports 100+ languages including:
 
 ## 👨‍💻 Author
 
-Github Kami2628
+(https://github.com/Kami2628)
